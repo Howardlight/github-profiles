@@ -49,6 +49,13 @@
     "sizes": "512x512",
     "type": "image\/png",
     "density": "4.0"
+   },
+   {
+    "src": "\/github-profiles\/favicons\/maskable_icon.png",
+    "sizes": "512x512",
+    "type": "image\/png",
+    "density": "4.0",
+    "purpose": "maskable"
    }
  ]
 }
