@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github-profiles/static/css/main.f4a69d9a.css",
-    "main.js": "/github-profiles/static/js/main.47a36849.js",
+    "main.css": "/github-profiles/static/css/main.a0d462e9.css",
+    "main.js": "/github-profiles/static/js/main.5a94a7da.js",
     "service-worker.js": "/github-profiles/service-worker.js",
     "index.html": "/github-profiles/index.html",
-    "main.f4a69d9a.css.map": "/github-profiles/static/css/main.f4a69d9a.css.map",
-    "main.47a36849.js.map": "/github-profiles/static/js/main.47a36849.js.map"
+    "main.a0d462e9.css.map": "/github-profiles/static/css/main.a0d462e9.css.map",
+    "main.5a94a7da.js.map": "/github-profiles/static/js/main.5a94a7da.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4a69d9a.css",
-    "static/js/main.47a36849.js"
+    "static/css/main.a0d462e9.css",
+    "static/js/main.5a94a7da.js"
   ]
 }
